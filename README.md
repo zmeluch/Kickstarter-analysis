@@ -15,19 +15,18 @@ This analysis should help Louise by giving her an idea of how successful other c
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/103155045/173211027-407843c9-d9d5-42d1-80f8-1fbf4260495d.png)
-lysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
 The only difficulty faced was inserting the countifs formulas for the Outcomes Based on Goal Chart, The misspelling of failed in on cell in particular caused issue. Through patient review the problem was found and corrected. The another challenge that could be faced is in the pivot table for the Theater Outcomes Based on Launch Date chart. Getting months on the chart instead of years could provide some difficulty.
 
 ## Results
 
-- 	1Theater campaigns started in the summer months May, June and July are more successful
-	  2Theater campaigns started in the winter months November, December and January are more likely to fail.
+- 	Theater campaigns started in the summer months May, June and July are more successful.
+- 	Theater campaigns started in the winter months November, December and January are more likely to fail.
 
 - 	Kickstarter campaigns for plays that have small goals $5,000 or less have and high percentage of success.
 
 - 	There are not many plays that had a fundraising goal of $15,0000 or more.
-	  Live Kickstarter campaign are not taken into account.
+- 	Live Kickstarter campaign are not taken into account.
 
 - 	Graphs showing the success rate of a campaign based on average donation would give Louise a target, she would likely need for successful campaign.
